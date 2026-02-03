@@ -7,7 +7,7 @@ My goal is to show how Python and Data Science can help in the medical field.
 
 ## 🔑 Key Features
 * **Algorithm:** I used the Gradient Boosting Classifier (from Scikit-Learn).
-* **Accuracy:** The model has about 94% accuracy on test data.
+* **Accuracy:** The model achieved **~87% accuracy** on the test set.
 * **Data Analysis:** I created new features like "Cardio Load" to improve results.
 
 ## 📂 Dataset Info
